@@ -1,3 +1,3 @@
 # HELLO
 
-[<a href="index.html"><img src="images/left-arrow.png">Click</a>](index.html)
+[<a href="index.html"><img src="img/left-arrow.png">Click</a>](index.html)
