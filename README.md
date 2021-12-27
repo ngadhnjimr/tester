@@ -3,4 +3,4 @@
   Electronic & Computer Ecommerce Website ---> Using HTML & CSS & JavaScript & jQuery
   
 ## DEMO
-<a style="vertical-align:50px;" href="https://gr6pww.netlify.app/"><img src="img/go.png" width="100px" height="50px"><strong>CLICK</strong></a>
+<a href="https://gr6pww.netlify.app/"><img src="img/go.png" width="100px" height="50px"><strong>CLICK</strong></a>
