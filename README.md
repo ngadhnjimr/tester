@@ -1,4 +1,4 @@
 # HELLO
 
 ## DEMO
-[<a href="index.html"><img src="img/go.png" width="100px" height="50px"></a>](index.html) 
+[<a href="https://gr6pww.netlify.app/"><img src="img/go.png" width="100px" height="50px"></a>](https://gr6pww.netlify.app/) 
